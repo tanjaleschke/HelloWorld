@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("Test");
 
 		System.out.println("Das hier soll ein Merge sein");
+		System.out.println("Hier soll etwas anderes stehen");
 		
 	}
 }
