@@ -7,11 +7,11 @@ public class Hello {
 
 		System.out.println("Ein weiterer Test");
 		System.out.println("Der Merge soll was tun");
-		System.out.println("Noch was");
+		System.out.println("Haaaaaaaaaaaaaaaaaaaaaaaaaaa");
 		
 		for(int i = 0 ; i <= 10 ; i++)
 		{
-			i = i + 24;
+			i = i + 8;
 			
 		}
 		
