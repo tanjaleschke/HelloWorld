@@ -5,9 +5,9 @@ public class Hello {
 		System.out.println("Test");
 		System.out.println("Test");
 
-		System.out.println("Das hier soll ein Merge sein");
+		System.out.println("Ein weiterer Test");
 		System.out.println("Der Merge soll was tun");
-		System.out.println("Das hier soll ein Merge sein");
+		System.out.println("Noch was");
 		
 		for(int i = 0 ; i <= 10 ; i++)
 		{
