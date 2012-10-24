@@ -9,5 +9,11 @@ public class Hello {
 		System.out.println("Hier soll etwas anderes stehen");
 		System.out.println("Das hier soll ein Merge sein");
 		
+		for(int i = 0 ; i <= 10 ; i++)
+		{
+			System.out.println(i);
+			
+		}
+		
 	}
 }
