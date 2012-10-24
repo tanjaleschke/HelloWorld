@@ -7,13 +7,14 @@ public class Hello {
 
 		System.out.println("Das hier soll ein Merge sein");
 		System.out.println("Hier soll etwas anderes stehen");
-		System.out.println("Das hier soll ein Merge sein");
+		System.out.println("Das hier soll ein Rico sein");
 		
 		for(int i = 0 ; i <= 10 ; i++)
 		{
 			i = i + 24;
 			
 		}
+
 		
 	}
 }
