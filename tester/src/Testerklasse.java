@@ -8,6 +8,7 @@ public class Testerklasse {
 		System.out.println("Eine Testausgabe");
 		System.out.println("Eine Testausgabe2");
 		System.out.println("Eine Testausgabe3");
+		System.out.println("Eine Testausgabe4");
 	}
 
 }
