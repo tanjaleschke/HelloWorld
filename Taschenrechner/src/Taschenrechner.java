@@ -9,7 +9,7 @@ public class Taschenrechner{
 		float firstInput;
 		float secondInput;
 		float result = 0.0f;
-		char operator, op;
+		char operator;
 		
 		System.out.println("Dies ist ein einfacher arithmetischer Taschenrechner\n");
 		System.out.println("Geben Sie die erste reelle Zahl ein!\n");
