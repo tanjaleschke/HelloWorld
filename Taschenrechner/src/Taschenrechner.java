@@ -32,8 +32,8 @@ public class Taschenrechner{
 				result = firstInput * secondInput;
 				Ausgabe(firstInput, secondInput, result, operator);
 				break;
-			case '/':
-				result = firstInput / secondInput;
+			case '%':
+				result = firstInput % secondInput;
 				Ausgabe(firstInput, secondInput, result, operator);
 				break;
 			default:
