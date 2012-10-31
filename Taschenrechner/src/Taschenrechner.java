@@ -33,18 +33,9 @@ public class Taschenrechner{
 				Ausgabe(firstInput, secondInput, result, operator);
 				break;
 			case '/':
-				try{
 				result = (int)firstInput / (int)secondInput;
 				Ausgabe(firstInput, secondInput, result, operator);
-				}
-				catch (ArithmeticException e){
-					System.out.println("Test");
-				}
 				break;
-				
-			case '%':
-				result = firstInput % secondInput;
-				Ausgabe(firstInput, secondInput, result, operator);
 				
 			default:
 				System.out.println("Fehler bei der Eingabe des Operators! Bitte starten Sie das Programm neu und korrigieren Sie die Eingaben!");
@@ -60,5 +51,7 @@ public class Taschenrechner{
 		System.out.println("" + firstInput + " " + operator + " " + secondInput + " = " + result);
 	
 	}
+	
+	
 
 }
